@@ -1,4 +1,4 @@
-# FinInsight-MultiAgent: 基于端侧小模型的自动化金融调研系统
+# FinInsight-MultiAgent
 
 
 ## 📖 项目简介
